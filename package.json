@@ -1,0 +1,12 @@
+{
+  "name": "railway-dynamic-html",
+  "version": "1.0.0",
+  "description": "Railway app with dynamic URL handling",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
